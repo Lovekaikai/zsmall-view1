@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "html2canvas": "^1.0.0-rc.1",
+    "qrcodejs2": "^0.0.2"
+  },
+  "dependencies": {
+    "jweixin-module": "^1.4.1",
+    "tki-qrcode": "^0.1.5"
+  }
+}
